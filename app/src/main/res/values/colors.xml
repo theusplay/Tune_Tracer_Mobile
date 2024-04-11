@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="laranja">#FF6A25</color>
     <color name="laranja_claro">#FFC2A6</color>
+    <color name="cinza_escuro">#2C2C2C</color>
 </resources>
